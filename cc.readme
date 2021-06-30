@@ -1,0 +1,1 @@
+cc qc.c -lz -lpthread -o FastqNums
